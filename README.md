@@ -1,8 +1,7 @@
-# [Groot Theme]
+# Groot Theme
 [Forked from Roots Starter Theme](http://roots.io/)
-[![devDependency Status](https://david-dm.org/roots/roots/dev-status.svg)](https://david-dm.org/roots/roots#info=devDependencies)
 
-A starter tempalte using Roots as a starter point , leveraging gulp for asset management and twig for templating
+A Wordpress template using Roots as a starter point , leveraging gulp for asset management and twig for templating
 
 
 
@@ -37,6 +36,6 @@ Edit `lib/init.php` to setup navigation menus, post thumbnail sizes, post format
 
 ## Theme development
 
-Groot uses [Grunt](http://gruntjs.com/) for compiling SCSS to CSS, checking for JS errors, live reloading, concatenating and minifying files, versioning assets, and generating lean Modernizr builds.
+Groot uses [gulp](http://gulpjs.com/) for compiling SCSS to CSS, checking for JS errors, live reloading, concatenating and minifying files, versioning assets, and generating lean Modernizr builds.
 
 
