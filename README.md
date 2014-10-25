@@ -34,6 +34,8 @@ Edit `lib/config.php` to enable or disable theme features and to define a Google
 
 Edit `lib/init.php` to setup navigation menus, post thumbnail sizes, post formats, and sidebars.
 
+Edit `lib/admin.php` to setup custom theming of the wordpress admin.
+
 ## Theme development
 
 Groot uses [gulp](http://gulpjs.com/) for compiling SCSS to CSS, checking for JS errors, live reloading, concatenating and minifying files, versioning assets, and generating lean Modernizr builds.
